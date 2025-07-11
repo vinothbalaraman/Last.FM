@@ -15,10 +15,11 @@ It fetches, processes, and visualizes top songs and artists **daily** — buildi
 - Store raw data (CSV) and load into Delta tables in a **Lakehouse** architecture
 - Build a clean data model with a Silver (online) table
 - Create an interactive dashboard to analyze:
-  - Most played tracks by date
-  - Most popular artists by date
+  - Top 10 tracks world wide
+  - Top 10 artists last week by listeners
   - Country-wise top tracks and artists
   - Total listeners
+  - Most popular artist across the countries
 
 ---
 
