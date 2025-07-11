@@ -47,3 +47,9 @@ It fetches, processes, and visualizes top songs and artists **daily** — buildi
 
 <img width="1466" height="701" alt="Dashboard_overview" src="https://github.com/user-attachments/assets/423885fc-9d62-404f-99f2-b1d72d47c8f9" />
 
+<img width="1275" height="669" alt="PipelineRun" src="https://github.com/user-attachments/assets/5e8e3f31-fa2c-47e7-8f8d-ebab18950dde" />
+
+<img width="1275" height="669" alt="ScheduledRun" src="https://github.com/user-attachments/assets/d57e5f4d-7235-4614-82f4-2b58275fc539" />
+
+
+
