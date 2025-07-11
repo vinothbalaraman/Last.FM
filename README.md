@@ -1,5 +1,3 @@
-# Last.FM
-
 # 🎵 (Near) Real-Time Song Popularity Tracker using Last.FM API
 
 This project tracks the **most played songs and top artists** from the [Last.FM API](https://www.last.fm/api) across multiple countries, in **near real time**, using a modern Data Engineering stack.
